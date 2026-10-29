@@ -317,8 +317,7 @@ class MangaBakaApi(
         }
 
     companion object {
-        // Development application; replace with the project-owned client ID before release.
-        private const val CLIENT_ID = "bPDwTJpxNUREPEWMeOwhTLIrunPLyDFZ"
+        private const val CLIENT_ID = "XPHAGXckIvAkFyoJqgqDbRcaKdQgUTMK"
 
         private const val BASE_URL = "https://mangabaka.org"
         private const val API_BASE_URL = "https://api.mangabaka.org"
